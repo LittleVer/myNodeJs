@@ -1,0 +1,1 @@
+require('../componts/index.jsx');

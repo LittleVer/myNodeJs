@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/myApp.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/javascripts/reactTest.js" />
+      <root url="file://$PROJECT_DIR$/dist/dist/bundle.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/jsx/CommonForm.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/javascripts/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/public/jsx/reactTest.js" />
+      <root url="file://$PROJECT_DIR$/dist/webpack.config.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
